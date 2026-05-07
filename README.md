@@ -124,7 +124,7 @@ python mimic_sql_analysis.py
 ---
 
 ## 👨‍💻 Author
-**Aaditya Jain (2026)**  
+**Aaditya Jain**  
 
 ---
 ## 📜 License
