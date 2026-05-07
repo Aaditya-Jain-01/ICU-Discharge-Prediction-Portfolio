@@ -139,3 +139,7 @@ MIT License — sole authorship portfolio project.
    git commit -m "docs: update README with plots and MIT License"
    git push origin main
    ```
+
+---
+## 📜 License
+This project is licensed under the MIT License – see the LICENSE file for details.  
