@@ -79,24 +79,31 @@ The goal is to support **critical care decisions** and **optimize hospital resou
 
 ## ⚡ How to Run
 
-# Clone the repo
+### 1. Clone the repository
 ```bash
 git clone https://github.com/Aaditya-Jain-01/ICU-Discharge-Prediction-Portfolio.git
 cd ICU-Discharge-Prediction-Portfolio
 ```
 
-# Install dependencies
+### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-# Add your MIMIC-IV dataset (requires PhysioNet access)
-# Place 'Assignment1_mimic dataset.csv' in the root directory
+### 3. Add your MIMIC-IV dataset
+- Requires credentialed PhysioNet access: [MIMIC-IV](https://physionet.org/content/mimiciv/)  
+- Place `Assignment1_mimic dataset.csv` in the root directory
 
-# Run the pipeline
+### 4. Run the pipeline
 ```bash
 python elastic_net_pipeline_github.py
 ```
+
+### 5. (Optional) Run SQL analysis
+```bash
+python mimic_sql_analysis.py
+```
+
 
 ---
 
