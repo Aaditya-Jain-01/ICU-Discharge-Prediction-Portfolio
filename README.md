@@ -125,20 +125,6 @@ python mimic_sql_analysis.py
 
 ## 👨‍💻 Author
 **Aaditya Jain (2026)**  
-MIT License — sole authorship portfolio project.
-
-
----
-
-### ⚡ Next Steps
-1. Make sure the images (`roc_curves_en.png`, `confusion_matrices_en.png`, etc.) are inside the `outputs_en/` folder.  
-2. Add the `LICENSE` file with MIT License text.  
-3. Commit and push everything:
-   ```bash
-   git add README.md LICENSE outputs_en/
-   git commit -m "docs: update README with plots and MIT License"
-   git push origin main
-   ```
 
 ---
 ## 📜 License
